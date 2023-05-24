@@ -1,0 +1,5 @@
+.idea
+out
+src/test/rice/test/pyfiles/*/expected.py
+src/test/rice/test/pyfiles/*/wrapper.py
+src/test/rice/test/pyfiles/*/__pycache__
